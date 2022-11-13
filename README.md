@@ -6,7 +6,7 @@ For the Hash Feedback One-Time Password Algorithm described in the following cha
 
 ![image](https://user-images.githubusercontent.com/104933413/201512754-c0562e1d-c21b-4f8f-b992-80ffee955be2.png)
 
-Key part of the project:
+Key parts of the project:
 
 A.	OTP token Generator
 
